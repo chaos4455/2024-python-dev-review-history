@@ -46,6 +46,19 @@ Os gráficos documentam o crescimento e a evolução do meu desenvolvimento Pyth
 - **📊  Evolução da criação de arquivos `.py` ao longo de 2024, com insights sobre frequência e horários de maior produtividade.  
 - **📊  Tendência da média de linhas de código, revelando o aumento da complexidade e sofisticação das soluções criadas.  
 
+![evolucao_linhas_tempo](https://github.com/user-attachments/assets/bcaef970-bed9-448e-b239-0c2d07167fde)
+
+![timeline_contribuicoes](https://github.com/user-attachments/assets/df57eca9-d927-4431-b2c3-4658075d3b3b)
+
+![distribuicao_dias_semana](https://github.com/user-attachments/assets/2fed266d-a0f2-4b85-b074-4e9fb553c10c)
+
+![linhas_por_mes_linha](https://github.com/user-attachments/assets/6e9b62e2-ef40-42ac-bb49-0396d25461ea)
+
+![distribuicao_linhas_histograma](https://github.com/user-attachments/assets/a81a10f7-8fe9-497d-9fa6-bd80b6a48ced)
+
+![linhas_vs_tamanho_dispersao](https://github.com/user-attachments/assets/d12962c2-cab3-4758-9ce2-68f648e32cea)
+
+
 ![bar_average_lines_per_month](https://github.com/user-attachments/assets/d9f98af3-f2c6-4f08-8354-45c7912a79b0)
 
 ![line_average_size_over_time](https://github.com/user-attachments/assets/24057763-5a27-4161-a69b-2c9de29496ab)
