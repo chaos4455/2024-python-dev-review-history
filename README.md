@@ -55,11 +55,3 @@ Os gráficos documentam o crescimento e a evolução do meu desenvolvimento Pyth
 ![scatter_creation_over_time](https://github.com/user-attachments/assets/acc90d75-191e-4e24-98e2-b52c4431d14c)
 
 ---
-
-## 🔗 Contato e Links  
-Quer saber mais ou colaborar? Entre em contato:  
-
-📧 **contato@replikaai.com**  
-🌐 [Portfólio Online](https://replikaaisolutions.com)  
-
-> **Nota**: Este repositório não contém o código-fonte, mas serve como uma análise visual e roadmap de evolução pessoal e técnica em Python.
