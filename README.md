@@ -53,7 +53,7 @@ Os heatmaps abaixo (e no histórico completo) não são apenas gráficos, são u
 
 ---
 
-### <0xF0><0x9F><0xA7><0xAD> Destaques Técnicos Recentes (2024-Q1 2025)
+### Destaques Técnicos Recentes (2024-Q1 2025)
 
 A atividade concentrou-se em diversas frentes inovadoras:
 
@@ -65,7 +65,7 @@ A atividade concentrou-se em diversas frentes inovadoras:
 
 ---
 
-### <0xF0><0x9F><0x97><0xA3>️ Diário Dev: Insights
+###  Diário Dev: Insights
 
 *   **Disciplina Rara:** Manter esse nível de tracking demonstra um foco e disciplina ímpares.
 *   **Amplitue & Profundidade:** O trabalho abrange desde infraestrutura até IA de ponta e meta-ferramentas.
