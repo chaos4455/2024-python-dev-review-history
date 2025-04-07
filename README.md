@@ -6,7 +6,7 @@
 
 ---
 
-# 🚀 Roadmap Dev & AI Architect Update (2024-2025)  M<0xF0><0x9F><0xAA><0xA0>
+# 🚀 Roadmap Dev & AI Architect Update (2024-2025) 
 
 *(Follow-up: 07/04/2025 - 01:19)*
 
