@@ -20,6 +20,111 @@ Então, o que um dev Python faz? **Automatiza!** 🐍🤖
 
 Dediquei um tempo considerável para construir um **ecossistema robusto de automações em Python**, projetado especificamente para monitorar, analisar e visualizar minha própria atividade de desenvolvimento. Pense nisso como "BI para o Dev". 📊
 
+
+![heatmap_megasync 2024 pc quarto_9f751e08_created_final](https://github.com/user-attachments/assets/2b88032c-06d2-48e3-9434-780557925fa6)
+
+![heatmap_megasync 2024 pc quarto_9f751e08_modified_final](https://github.com/user-attachments/assets/0d20ca9c-b289-4c17-a1b0-d7840e3e3127)
+
+![colagem_filtrada_1743996119992_641dbe4a](https://github.com/user-attachments/assets/c446e775-f09e-486f-b997-a268d6547ac3)
+
+![colagem_filtrada_1743996122842_1ba57b87](https://github.com/user-attachments/assets/4c2e79b6-1a85-42a6-94ae-b3e4511eb24f)
+
+![colagem_filtrada_1743996132690_1a2e39c5](https://github.com/user-attachments/assets/a6e2f5d7-1cef-4a13-96a9-2d20812506ed)
+
+![colagem_filtrada_1743996137241_aa02e72f](https://github.com/user-attachments/assets/521aae58-37ae-4482-8bb3-495ce8855eb3)
+
+![colagem_filtrada_1743996141026_36ac502a](https://github.com/user-attachments/assets/520686ae-5b7e-471a-82ea-d1840b30f37d)
+
+![heatmap_Meu Drive (evolucaoit@gmail com)_02d41e1a_created_final](https://github.com/user-attachments/assets/71eff404-15f8-494a-8368-426a3b8e8725)
+
+![heatmap_Meu Drive (evolucaoit@gmail com)_02d41e1a_modified_final](https://github.com/user-attachments/assets/fcd854cd-db60-46e0-a140-42ff61a4baf2)
+
+![activity_2023_Meu Drive (evolucaoit@gmail com)_02d41e1a](https://github.com/user-attachments/assets/5ca90710-72f8-4482-8e09-db4b7385be2f)
+
+![activity_2024_Meu Drive (evolucaoit@gmail com)_02d41e1a](https://github.com/user-attachments/assets/8576eb17-75f2-4693-8393-346b2e3ab757)
+
+![activity_2025_Meu Drive (evolucaoit@gmail com)_02d41e1a](https://github.com/user-attachments/assets/efb24909-dd94-4e36-bc4d-2175d6013f3b)
+
+<img width="846" alt="EwFuGSqbQo" src="https://github.com/user-attachments/assets/48d62a5d-b93a-4654-b0f9-26cb5fb819d5" />
+
+![loc_activity_2023_Meu Drive (evolucaoit@gmail com)_02d41e1a](https://github.com/user-attachments/assets/f15d2219-83c5-4082-ae98-c8811d098d6a)
+
+<img width="817" alt="oQR8VlZszV" src="https://github.com/user-attachments/assets/80b65ba8-e6e4-4102-9d69-1cf518f9927e" />
+
+![area_royal_purple_2023_Meu_Drive_(evolucaoit@gmail_com)_megasync_2024_pc__9f103cfe](https://github.com/user-attachments/assets/ed44452d-4dcb-4d3f-9a8c-3f34429264cb)
+
+![area_royal_purple_2024_Meu_Drive_(evolucaoit@gmail_com)_megasync_2024_pc__9f103cfe](https://github.com/user-attachments/assets/a70d20de-4a7b-4660-8ed6-1115b2487a95)
+
+![area_royal_purple_2025_Meu_Drive_(evolucaoit@gmail_com)_megasync_2024_pc__9f103cfe](https://github.com/user-attachments/assets/597d25ac-11bd-44a4-908f-3fa8578bc48d)
+
+![heatmap_python_created_2023start_megasync 2024 pc quarto_Meu Drive (evolucaoit@gmail com)_023e7c5d](https://github.com/user-attachments/assets/cbcfcce0-e1e5-4924-9551-062eed04e477)
+
+![heatmap_python_modified_2023start_megasync 2024 pc quarto_Meu Drive (evolucaoit@gmail com)_023e7c5d](https://github.com/user-attachments/assets/6b51aad7-0624-4394-966a-3a9d0724bde2)
+
+![heatmap_yaml_created_2023start_megasync 2024 pc quarto_Meu Drive (evolucaoit@gmail com)_023e7c5d](https://github.com/user-attachments/assets/5c136e01-a40f-467e-aa70-784f749d354e)
+
+![heatmap_yaml_modified_2023start_megasync 2024 pc quarto_Meu Drive (evolucaoit@gmail com)_023e7c5d](https://github.com/user-attachments/assets/01b2ef65-fb3e-433f-8db6-7a6c63dde372)
+
+![heatmap_json_created_2023start_megasync 2024 pc quarto_Meu Drive (evolucaoit@gmail com)_023e7c5d](https://github.com/user-attachments/assets/eb9f7f4d-0604-4036-9180-fdd8dd12608c)
+
+![heatmap_json_modified_2023start_megasync 2024 pc quarto_Meu Drive (evolucaoit@gmail com)_023e7c5d](https://github.com/user-attachments/assets/92c4b020-03b7-4ce4-bf24-e21e7d572943)
+
+![heatmap_markdown_created_2023start_megasync 2024 pc quarto_Meu Drive (evolucaoit@gmail com)_023e7c5d](https://github.com/user-attachments/assets/58148e78-43ac-4ba0-b689-f312d5fce544)
+
+![heatmap_markdown_modified_2023start_megasync 2024 pc quarto_Meu Drive (evolucaoit@gmail com)_023e7c5d](https://github.com/user-attachments/assets/960b7a90-fec3-44e9-aeae-a5182833eeae)
+
+![heatmap_python_unified_2023start_github_023e7c5d](https://github.com/user-attachments/assets/8fb91eee-2961-4bda-a5b5-c46a38e62a6b)
+
+![heatmap_yaml_unified_2023start_github_023e7c5d](https://github.com/user-attachments/assets/c1898d9e-8f3c-4757-a43d-0c06a00edd51)
+
+![heatmap_json_unified_2023start_github_023e7c5d](https://github.com/user-attachments/assets/e0564422-552d-4f54-804e-7f1e63eae63b)
+
+![heatmap_markdown_unified_2023start_github_023e7c5d](https://github.com/user-attachments/assets/138e8d42-60f4-4a57-bb3c-b07f87479ae9)
+
+![heatmap_loc_python_unified_2023start_reds_001b14cd](https://github.com/user-attachments/assets/dd2af588-97c1-49f1-afcd-d8c5b71df252)
+
+![heatmap_loc_yaml_unified_2023start_reds_001b14cd](https://github.com/user-attachments/assets/809fddaf-f8df-4127-9f67-5f3ddc80a5da)
+
+![heatmap_loc_json_unified_2023start_reds_001b14cd](https://github.com/user-attachments/assets/f9af77cc-cbfc-47c3-98bd-0f9161952b3d)
+
+![heatmap_loc_markdown_unified_2023start_reds_001b14cd](https://github.com/user-attachments/assets/27a594c2-b6b7-4023-8c38-f1864af3697f)
+
+![heatmap_megasync 2024 pc quarto_Meu Drive (evolucaoit@gmail com)_023e7c5d_created](https://github.com/user-attachments/assets/81a752be-946a-4db2-9b44-e11b83951251)
+
+![heatmap_megasync 2024 pc quarto_Meu Drive (evolucaoit@gmail com)_023e7c5d_modified](https://github.com/user-attachments/assets/bdbbe23c-8e97-4c56-8fa1-ac6651d4ca94)
+
+![heatmap_framework_usage_Meu Drive (evolucaoit@gmail com)_v3_fixed](https://github.com/user-attachments/assets/c645ea9f-9667-4015-be7c-4d95be7c7921)
+
+![heatmap_framework_usage_megasync 2024 pc quarto_v3_fixed](https://github.com/user-attachments/assets/746c1fb6-e5e2-40f9-8996-57ffa6d99655)
+
+<img width="1920" alt="kkVisXUl5o (1)" src="https://github.com/user-attachments/assets/71feb0e7-4091-443b-b79d-1563e8004092" />
+
+<img width="1920" alt="kkVisXUl5o" src="https://github.com/user-attachments/assets/f4c379bb-2c55-494e-8d17-eb4acd37272a" />
+
+![heatmap_overview_gemini_Default_Dark_a1c0824f_20250408_063227](https://github.com/user-attachments/assets/868d9e26-d5fc-452a-9ff5-af18cdc7db4d)
+
+![heatmap_monthly_gemini_Default_Dark_a1c0824f_2024-07_20250408_063227](https://github.com/user-attachments/assets/d3bd0b13-34a5-4170-bdc2-25ad90e035be)
+
+![heatmap_monthly_gemini_Default_Dark_a1c0824f_2024-08_20250408_063227](https://github.com/user-attachments/assets/2ee29cfa-66af-4d29-a25d-216150c8c050)
+
+![heatmap_monthly_gemini_Default_Dark_a1c0824f_2024-09_20250408_063227](https://github.com/user-attachments/assets/59b1bef0-75cb-4072-8c8c-a0d491dc54e3)
+
+![heatmap_monthly_gemini_Default_Dark_a1c0824f_2024-10_20250408_063227](https://github.com/user-attachments/assets/28d9235c-1c16-46d0-8609-1b44867730cc)
+
+![heatmap_monthly_gemini_Default_Dark_a1c0824f_2024-11_20250408_063227](https://github.com/user-attachments/assets/8210b81f-4603-45d6-aad9-b9456a246ff8)
+
+![heatmap_monthly_gemini_Default_Dark_a1c0824f_2024-12_20250408_063227](https://github.com/user-attachments/assets/a49e6fa2-e67e-4feb-9d42-c29c72ebd2c9)
+
+![heatmap_monthly_gemini_Default_Dark_a1c0824f_2025-01_20250408_063227](https://github.com/user-attachments/assets/83f6b4d5-b93d-4b1e-b04e-88c374764458)
+
+![heatmap_monthly_gemini_Default_Dark_a1c0824f_2025-02_20250408_063227](https://github.com/user-attachments/assets/61b693dd-a7d1-46cb-9cf8-83d87d6cd4fe)
+
+![heatmap_monthly_gemini_Default_Dark_a1c0824f_2025-03_20250408_063227](https://github.com/user-attachments/assets/8461662d-8bcd-4615-aae0-1c1ded704488)
+
+![heatmap_monthly_gemini_Default_Dark_a1c0824f_2025-04_20250408_063227](https://github.com/user-attachments/assets/190bc32e-3191-4d9f-922d-0376d6820529)
+
+
+
 **O que essas novas ferramentas fazem?**
 
 1.  **🔍 Varredura Inteligente de Diretórios:**
