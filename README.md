@@ -40,6 +40,16 @@ Continuando nossa jornada rumo à **meta-produtividade** e **automação em esca
 
 Estes heatmaps são mais uma peça crucial no nosso arsenal de **meta-produtividade**. Estamos usando nossos próprios dados para refinar nossos processos e acelerar ainda mais. A combinação de **análise visual profunda + automação agressiva** é a chave para escalar a **Replika AI Solutions** de forma inteligente e sustentável! 💪
 
+
+![heatmap_2024-09_loc_sum](https://github.com/user-attachments/assets/fd139cd0-f7ae-4e28-9c4c-ccb95e16ea59)
+
+![heatmap_2024-11_loc_sum](https://github.com/user-attachments/assets/e4791bdf-8739-43bd-9ff1-609c62588160)
+
+![overview_heatmap_count](https://github.com/user-attachments/assets/ebc68892-806f-435e-bd71-626f045888c4)
+
+![overview_heatmap_loc_sum](https://github.com/user-attachments/assets/901fa5fd-ce44-4d0e-ad16-a378674845b1)
+
+
 ---
 
 _**#DevDiary #MetaProductivity #Automation #DataViz #Heatmaps #CodeAnalysis #Python #ReplikaAISolutions #ContinuousImprovement**_
