@@ -28,6 +28,14 @@ Continuando nossa jornada rumo à **meta-produtividade** e **automação em esca
     *   Validar o impacto real das nossas iniciativas de automação na geração de código.
     *   Visualizar a escala do nosso trabalho: `~3.748` arquivos `.py` únicos somando mais de `~720.367` LoC (em atividade modificada) / `~547.767` LoC (em volume modificado)! 🤯
 
+
+![overview_heatmap_py_loc_sum](https://github.com/user-attachments/assets/1d4d566c-766c-432e-9dbd-0c355e2825f0)
+
+![overview_heatmap_yaml_loc_sum](https://github.com/user-attachments/assets/3ff0c4ba-d9ed-4fd2-9b77-35308697a68b)
+
+![overview_heatmap_json_loc_sum](https://github.com/user-attachments/assets/f0a9a8e4-9410-45dd-bdab-658dbef63dac)
+
+
 ---
 
 ### ⚙️ Além dos Gráficos: A Fábrica Não Para!
