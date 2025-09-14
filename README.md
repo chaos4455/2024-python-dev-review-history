@@ -16,7 +16,7 @@ Continuando nossa jornada rumo à **meta-produtividade** e **automação em esca
 
 ---
 
-### <0xF0><0x9F><0xA7><0x8F> Insights Direto dos Heatmaps:
+### Insights Direto dos Heatmaps:
 
 *   📊 **Padrões Revelados:** Ao comparar dados históricos (como `Nov/Set 2024` - foco em modificações) com os recentes (`Mar/Abr 2025` - foco em criação), os heatmaps (`Volume de LoC` & `Atividade de Arquivos .py`) pintam um quadro claro dos nossos ritmos de trabalho:
     *   Madrugadas produtivas 🦉
